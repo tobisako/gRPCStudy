@@ -1,0 +1,19 @@
+{
+  "name": "pinger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-protobuf": "3.6.1",
+    "grpc": "^1.23.3",
+    "grpc-tools": "^1.8.0",
+    "grpc-web": "^1.0.6",
+    "protobufjs": "^6.8.8"
+  }
+}
